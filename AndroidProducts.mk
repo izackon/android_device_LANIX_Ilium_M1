@@ -1,0 +1,3 @@
+LOCAL_PATH := device/LANIX/Ilium_M1
+
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_Ilium_M1.mk
